@@ -1,0 +1,15 @@
+#StationCode: TCU026
+#InstrumentKind: A900 (T101001.263 )
+#StartTime: 1999/09/20-17:47:23.000 
+#RecordLength(sec):   90.00 
+#SampleRate(Hz): 200
+#AmplitudeUnit:  gal. DCoffset(corr)
+#AmplitudeMAX. U:   48.392~  -56.283
+#AmplitudeMAX. N:   71.938~  -89.441
+#AmplitudeMAX. E:   97.143~ -116.036
+#DataSequence: Time U(+); N(+); E(+)
+#Data: 4F10.3 
+     0.000     0.002    -0.138    -0.235
+     0.005    -0.057     0.101     0.124
+     0.010     0.002     0.161     0.244
+     0.015    -0.117     0.101    -0.175
